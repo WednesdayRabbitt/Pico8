@@ -111,8 +111,8 @@ function draw_title()
 		
 		print("any direction to start",x+1,y+1,3)
 		print("any direction to start",x,y,7)
-		print("made on the pocket chip",0,117,12)
-		print("by wednesday rabbitt",0,123,12)
+		print("made on the pocket chip",0,117,11)
+		print("by wednesday rabbitt",0,123,11)
 end
 --⬆️title⬆️
 
